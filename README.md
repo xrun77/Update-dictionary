@@ -1,4 +1,5 @@
 Замена словаря в файле omni.ja браузера Firefox / Replacing the dictionary in the omni.ja file of the Firefox browser
+0) Распакуйте архив.
 1) Запустите файл update_dict.bat
 2) Выберите вариант, какая у Вас локализация Firefox: английская или русская.
 3) Выберите папку, в которой находится файл omni.ja
